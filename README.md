@@ -56,7 +56,7 @@ Saya adalah seorang pengembang yang antusias di bidang **web development**, **ma
 
 <p align="left">
   <a href="mailto:muhammadridhoaidilfurqon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/Muhammad Ridho Aidil Furqon"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/muhammad-ridho-aidil-furqon-9544b3368/]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://ridhoaidil.netlify.app"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
