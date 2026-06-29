@@ -18,7 +18,7 @@
     <a href="https://t.me/RidhoAidil">
         <img src="https://img.shields.io/badge/-Telegram-f5c2e7?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/>
     </a>
-    <a href="https://www.youtube.com/@Aidil">
+    <a href="https://www.youtube.com/@MuhammadRidhoAidilFurqon">
         <img src="https://img.shields.io/badge/-YouTube-cba6f7?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/>
     </a>
 </div>
