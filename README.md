@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-    <a href="https://linkedin.com/in/Muhammad Ridho Aidil Furqon">
+    <a href="https://www.linkedin.com/in/muhammad-ridho-aidil-furqon-9544b3368/">
         <img src="https://img.shields.io/badge/-LinkedIn-f5e0dc?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
     </a>
     <a href="https://instagram.com/mridhoaidil_">
